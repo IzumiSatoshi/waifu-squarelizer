@@ -1,1 +1,2 @@
-# WIP
+The image in the input folder is cropped like this using facial recognition, and output to the output folder
+![crop like this](https://raw.githubusercontent.com/IzumiSatoshi/waifu-squarelizer/main/images/waifu-sq.jpg)   
